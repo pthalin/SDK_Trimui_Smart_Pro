@@ -1,4 +1,4 @@
-# Patched SDK and sysrooth for Trimui Smart Pro
+# Patched SDK and sysroot for Trimui Smart Pro
 
 Based on the official files from Trimui
 
